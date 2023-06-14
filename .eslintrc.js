@@ -11,6 +11,7 @@ module.exports = {
   rules: {
     quotes: [2, "double", { avoidEscape: true }],
     "react/react-in-jsx-scope": 0,
+    "no-console": "off",
     "import/extensions": 0,
     "react/prop-types": 0,
     "linebreak-style": 0,
